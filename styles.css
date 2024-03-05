@@ -1,1 +1,77 @@
-/* Write your CSS here! */
+/* Header Styles */
+header {
+background-color: pink;
+color: black;
+padding: 20px;
+}
+
+#mainHeading {
+color: red;
+font-family: verdana;
+text-align: center;
+font-size: 36px;
+
+}
+
+#navBar {
+text-align: center;
+}
+
+.social > li {
+display: inline;
+margin: 0 8px;
+}
+
+.jobs > li {
+    display: inline;
+    margin: 0 8px;
+    }
+
+body {
+    background-color:blanchedalmond;
+}
+
+h1 {
+    color:palevioletred;
+    font-family: verdana;
+    text-align:center;
+}
+
+h2 {
+    color:rosybrown;
+    font-family: verdana;
+    text-align:center;
+}
+
+h3 {
+    color:indianred;
+    font-family: verdana;
+    text-align:center;
+}
+
+.funParagraph {
+    font-style: italic;
+    color: green;
+}
+
+p {
+font-family: verdana;
+font-size: 20px;
+}
+
+.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+
+li{
+    font-style: italic;
+    color: rosybrown;
+    font-family: verdana;
+    font-size: 20px;
+}
+
+
+
